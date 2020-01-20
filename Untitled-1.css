@@ -1,0 +1,163 @@
+
+body{
+  background-color: #eacec0;
+  overflow: auto;
+  margin:0;
+}
+.header{
+    top: 0;
+    background: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1366px;
+    height: 786px;
+    object-fit: contain;
+    display: inline-block;
+}
+.black_list {
+    background: rgba(0, 0, 0, 0.4);
+    margin-left: 31px;
+    padding-top: 20px;
+    position: relative;
+    width: 382px;
+    height: 766px;
+    display: inline-block;
+}
+.black{
+    width: 322px;
+    height: 91px;
+    object-fit: contain;
+    margin-left:  22px;
+  }
+.a30--{
+    width: 146px;
+    height: 130px;
+    object-fit: contain;
+    margin-top: 14px;
+  }
+.a31--{
+    width: 53px;
+    height: 133px;
+    object-fit: contain;
+    margin-top: 14px;
+  }
+.a32-- {
+    width: 56px;
+    height: 67px;
+    object-fit: contain;
+    margin-top: 14px;
+  }
+  .language{
+        width: 32px;
+        height: 14px;
+        font-family: Kurale;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: white;
+  }
+  .menu{
+    width: 382px;
+    height: 221px;
+    
+        font-family: Kurale;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: white;
+      
+}
+.menu:hover {
+    color:#E6E6FA ;
+    background-color: #000000;
+}
+
+.tasty {
+    display: inline-block;
+    width: 376px;
+    height: 291px;
+    font-family: Kurale;
+    font-size: 88px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    margin-left: 400px;
+    position: absolute;
+    margin-top: 230px;
+  }
+  .search {
+    width: 393px;
+    height: 39px;
+    border-radius: 10px;
+    background-color: rgba(250, 2500, 250, 0.12);
+    margin-top: 57px;
+    margin-left: 70px;
+    position: absolute;
+    font-family: Kurale;
+    font-size: 26px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+  }
+.sear {
+    margin-left: 425px;
+    position: absolute;
+    margin-top: 65px;
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+  }
+
+.korz {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    margin-left: 610px;
+    position: absolute;
+    margin-top: 65px;
+  }
+
+.accaun{
+    margin-left: 658px;
+    position: absolute;
+    margin-top: 62px;
+    width: 22px;
+    height: 26px;
+    object-fit: contain;
+  }
+
+.main_1{
+    width: 1366px;
+    height: 768px;
+    background-color: var(--beige);
+}
+.main_2 {
+    width: 1366px;
+    height: 768px;
+    background-color: var(--beige);
+  }
+.main_3 {
+    width: 1366px;
+    height: 766px;
+    background-color: var(--beige);
+  }
+
+
+
+
+
