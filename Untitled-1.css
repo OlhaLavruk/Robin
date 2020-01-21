@@ -47,19 +47,88 @@ body{
     object-fit: contain;
     margin-top: 14px;
   }
-  .language{
-        width: 32px;
-        height: 14px;
-        font-family: Kurale;
-        font-size: 18px;
-        font-weight: normal;
-        font-stretch: normal;
-        font-style: normal;
-        line-height: normal;
-        letter-spacing: normal;
-        text-align: center;
-        color: white;
+.language{
+      width: 60px;
+      height: 30px;
+      font-family: Kurale;
+      font-size: 18px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: center;
+      color: #ffffff;
+      position: absolute;
+      display: inline-block;
+      margin-top: 63px;
+      margin-left: 760px;
+      padding-top: 3px;
   }
+  .language1{
+    width: 60px;
+    height: 30px;
+    font-family: Kurale;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    position: absolute;
+    display: inline-block;
+    margin-top: 63px;
+    margin-left: 815px;
+    padding-top: 3px;
+}
+.language,.language1:hover {
+  color:#E6E6FA ;
+  background-color: #000000;
+}
+
+.er {
+color:white;
+text-align: center;
+padding: 9px;
+text-decoration: none;
+border-radius: 10px;
+border: 1.9px solid white;
+width: 332px;
+height: 68px;
+font-family: Kurale;
+font-size: 40px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: normal;
+letter-spacing: normal;
+display: inline-block;
+margin-left: 420px;
+margin-top: 600px;
+position: absolute;
+}
+
+.circle{
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  border: 1.2px solid white;
+  border-radius: 50px;
+  margin: 5px;
+}
+.circle1{
+  display: inline-block;
+  width: 170px;
+  height: 28px;
+  margin-left: 525px;
+  margin-top: 720px;
+  position: absolute;
+}
+.circle:hover{
+background-color: white;
+}
   .menu{
     width: 382px;
     height: 221px;
@@ -83,9 +152,9 @@ body{
 .tasty {
     display: inline-block;
     width: 376px;
-    height: 291px;
+    height: 391px;
     font-family: Kurale;
-    font-size: 88px;
+    font-size: 85px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -93,9 +162,9 @@ body{
     letter-spacing: normal;
     text-align: center;
     color: white;
-    margin-left: 400px;
+    margin-left: 410px;
     position: absolute;
-    margin-top: 230px;
+    margin-top: 210px;
   }
   .search {
     width: 393px;
@@ -144,7 +213,37 @@ body{
 .main_1{
     width: 1366px;
     height: 768px;
-    background-color: var(--beige);
+}
+.main_1 h2{
+  font-family: Kurale;
+  font-size: 72px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #491916;
+}
+.drink{
+  display: inline-block;
+  width: 256px;
+  height: 416px;
+  background-color: white;
+  margin-right: 18px;
+}
+.drink1{
+  display: inline-block;
+  margin: 0 5px 0 78px ;
+}
+.drink2{
+  display: inline-block;
+  margin-left: -13px ;
+}
+.vine{
+    width: 256px;
+    height: 289px;
+  
 }
 .main_2 {
     width: 1366px;
